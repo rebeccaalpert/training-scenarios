@@ -2,7 +2,7 @@ A card is a flexible element for containing any kind of content. Cards are used 
 
 In this exercise, we'll be creating a card with an image, action, header, body, and footer.
 
-In PatternFly 4, separate components are used to demarcate the different regions of a card so it can be fully customized. For example, images are placed in CardHead, actions in CardActions, and the header in CardHeader.  We'll add a PatternFly card  - the image below is what we'll end up with when we are done. 
+In PatternFly 4, separate components are used to demarcate the different regions of a card so it can be fully customized. For example, images are placed in CardHead, actions in CardActions, and the header in CardHeader.  We'll add a PatternFly card  - the image below is what we'll end up with when we are done.
 
 ![Final card](module-1/assets/step8.png)
 
