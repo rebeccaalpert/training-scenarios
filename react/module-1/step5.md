@@ -45,4 +45,4 @@ We'll be using the `link` variant and adding an `isInline` prop so that the butt
 </pre>
 
 When these steps are complete - the finished card should look like this:
-![Step 8 card](module-1/assets/step8.png)
+<img src="module-1/assets/step8.png" alt="Completed card component with header, icon, body, and footer links" style="box-shadow: rgba(3, 3, 3, 0.2) 0px 1.25px 2.5px 0px;" />

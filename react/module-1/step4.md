@@ -13,7 +13,7 @@ Add the following code to the `CardHeader` component:
 <pre class="file" data-target="clipboard">
 &lt;CardHeader&gt;
   &lt;Text component={TextVariants.p}&gt;
-    Patternfly
+    PatternFly
   &lt;/Text&gt;
 &lt;/CardHeader&gt;
 </pre>
@@ -24,7 +24,7 @@ Add the following code to the `CardHeader` component:
 The brand component is used to place a product logotype on a screen. All you need to provide are the source image or svg and alt text.
 
 <pre class="file" data-target="clipboard">
-&lt;CardHead&gt; 
+&lt;CardHead&gt;
   &lt;Brand src=&quot;https://pf4.patternfly.org/assets/images/pf-logo-small.svg&quot; alt=&quot;Patternfly Logo&quot; /&gt;
   &lt;CardActions&gt;
   &lt;/CardActions&gt;
@@ -61,4 +61,4 @@ TextContent is used to wrap Text components and provides text with extra spacing
 </pre>
 
 When these steps are complete - the header and card should look like this:
-![Step 4 card](module-1/assets/step5.png)
+<img src="module-1/assets/step5.png" alt="Card with logo, close button, and header" style="box-shadow: rgba(3, 3, 3, 0.2) 0px 1.25px 2.5px 0px;" />
